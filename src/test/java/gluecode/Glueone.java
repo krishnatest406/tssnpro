@@ -17,6 +17,7 @@ public class Glueone {
 		driver.switchTo().activeElement().sendKeys("1273378",Keys.TAB,Keys.TAB);		
 		driver.switchTo().activeElement().click();
 		driver.quit();
+		
 	}
 
 }
